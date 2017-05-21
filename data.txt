@@ -1,0 +1,10 @@
+Car         300		12 #You would choose 12 if a payment is monthly
+Rent        500		12
+Groceries   125		52 #You would choose 52 if an expense is weekly
+Internet    35		12
+Electricity 80		12
+Gas         25		52
+Gym         30      	12
+Amazon      50      	5
+Restaurants 30      	52
+

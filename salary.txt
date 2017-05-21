@@ -1,0 +1,1 @@
+100     52 #This means $100 a week, assuming a year has 52 weeks

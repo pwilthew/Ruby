@@ -1,2 +1,2 @@
 # Ruby
-Ruby basic programs
+Ruby Hello-World programs
